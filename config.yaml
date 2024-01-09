@@ -1,0 +1,65 @@
+baseURL: 'https://blog.ubuntu-kr.org'
+languageCode: en
+title: 'UbuCon Asia Blog'
+theme: "ubuntu-blog-hugo"
+buildFuture: true
+paginate: 5
+outputs:
+  home:
+  - html
+  - rss
+  section:
+  - html
+  - rss
+  taxonomy:
+  - html
+  - rss
+  term:
+  - html
+params:
+  shortTitle: Blog
+  contact: contact@ubucon.asia
+  facebook: ubuconasia
+  twitter: UbuConAsia
+  github: ubucon-asia
+  launchpad: ubucon-asia
+  youtube: https://www.youtube.com/@UbuConAsia
+  source_repo: https://github.com/ubucon-asia/blog.ubucon.asia
+  discourse: https://discourse.ubuntu.org/
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    title: UbuCon Asia Blog
+    weight: 2
+    params:
+      shortTitle: Blog
+      description: >-
+        Latest news from UbuCon Asia Committee
+      copyright: >-
+        © 2021-Present UbuCon Asia Committee
+        Except where otherwise noted, Website source code licensed under MIT, Contents licensed under CC BY-SA 4.0. 
+        Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+      main_slide:
+        label: About the community
+        link: about
+    menu:
+      main:
+      - identifier: tags
+        name: Tags
+        weight: 2
+        url: /tags
+      - identifier: subscribe
+        name: Subscribe(RSS)
+        weight: 3
+        url: /index.xml
+      - identifier: contribute
+        name: Contributing to this blog
+        weight: 4
+        url: /contribute
+      link:
+      - identifier: home
+        name: Homepage
+        weight: 1
+        url: https://www.ubucon.asia
+     

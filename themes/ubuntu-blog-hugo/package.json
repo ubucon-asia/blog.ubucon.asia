@@ -1,0 +1,11 @@
+{
+  "comments": {
+    "dependencies": {},
+    "devDependencies": {}
+  },
+  "dependencies": {
+    "vanilla-framework": "^4.5.1"
+  },
+  "name": "ubuntu-blog-hugo",
+  "version": "0.1.0"
+}
