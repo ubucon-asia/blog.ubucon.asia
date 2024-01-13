@@ -8,15 +8,19 @@ outputs:
   home:
   - html
   - rss
+  - json
   section:
   - html
   - rss
+  - json
   taxonomy:
   - html
   - rss
+  - json
   term:
   - html
   - rss
+  - json
 params:
   shortTitle: Blog
   contact: contact@ubucon.asia
