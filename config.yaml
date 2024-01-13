@@ -1,4 +1,4 @@
-baseURL: 'https://blog.ubuntu-kr.org'
+baseURL: 'https://blog.ubucon.asia'
 languageCode: en
 title: 'UbuCon Asia Blog'
 theme: "ubuntu-blog-hugo"
