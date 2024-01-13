@@ -16,6 +16,7 @@ outputs:
   - rss
   term:
   - html
+  - rss
 params:
   shortTitle: Blog
   contact: contact@ubucon.asia
