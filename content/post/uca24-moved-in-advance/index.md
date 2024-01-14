@@ -16,7 +16,7 @@ authors:
 draft: false # 글 초안 여부
 ---
 
-Happy new year everyone! As from our announcement on discourse end of last year, The 4th edition of UbuCon Asia will be held in Jaipur, India. There are some few updates and changes since then, So we would like to share with you!
+Happy new year everyone! [As from our announcement on discourse end of last year,](https://discourse.ubuntu.com/t/ubucon-asia-2024-to-be-held-in-jaipur-india/41054) The 4th edition of UbuCon Asia will be held in Jaipur, India. There are some few updates and changes since then, So we would like to share with you!
 
 ## Dates moved in advance
 Our orignal plan was to hold on October 4th to 6th. But as these dates are closer with Ubuntu Summit which usually happens on early November, We moved our event dates in advance so that people from Ubuntu community would be able to attend both event! **The new dates are August 31st to September 2nd.** You may now mark your calendar and save your dates!
