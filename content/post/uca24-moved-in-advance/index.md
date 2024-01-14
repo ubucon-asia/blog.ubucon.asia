@@ -30,7 +30,7 @@ Working hard on it! Benefits would be similar, But pricing could be different a 
 If you would like to sponsor us, and would like to get notified once more informations available, [please feel free to contact our sponsorship team with email.](mailto:sponsorship@ubucon.asia) 
 
 ## Joint event with GNOME.Asia
-As of today, We're still discussing with GNOME Foundation on organizing joint event with GNOME.Asia. Since we'll need to publish our sponsorship prospectus and start reaching out sponsors soon, We're trying to make decision by Feburary.
+As of today, We're still discussing with GNOME Foundation on organizing joint event with GNOME.Asia. Since we'll need to publish our sponsorship prospectus and start reaching out sponsors soon, We're trying to make decision by Feburary or March.
 
 ## More informations
 Our UbuCon Asia 2024 website is now up on https://2024.ubucon.asia! We'll be publishing more informations and updates there. Feel free to visit to learn more about the event!
