@@ -44,7 +44,7 @@ At UbuCon Asia, our goal is to showcase the incredible work people do with Ubunt
 # Spread the Word!
 Help us make UbuCon Asia 2024 a vibrant and enriching event. Share this call for proposals with your friends, colleagues, and anyone else who might be interested in speaking at UbuCon Asia. We eagerly await your submissions!
 
-For more details, [visit this link to learn more](https://2024.ubucon.asia/cfp). Let’s make this conference an unforgettable experience for all Ubuntu enthusiasts! 🚀🌟
+For more details and to submit your proposal today, [**visit this link to learn more**](https://2024.ubucon.asia/cfp). Let’s make this conference an unforgettable experience for all Ubuntu enthusiasts! 🚀🌟
 
 # Important dates
 
