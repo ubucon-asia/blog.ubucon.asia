@@ -48,7 +48,7 @@ For more details and to submit your proposal today, [**visit this link to learn 
 
 # Important dates
 
-You may submit your proposal from March 13rd. Deadline for submission is until April 13rd. Depending on number of submission we received, this could be extended or closed advanced. You may have a look at [Important dates](https://2024.ubucon.asia/programs/important-dates/) page on our website for updates schedules.
+You may submit your proposal from March 13th. Deadline for submission is until April 13th. Depending on number of submission we received, this could be extended or closed advanced. You may have a look at [Important dates](https://2024.ubucon.asia/programs/important-dates/) page on our website for updates schedules.
 
 # Got questions?
 
