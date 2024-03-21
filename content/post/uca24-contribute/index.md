@@ -26,6 +26,7 @@ If you need some inspirations for choosing your proposal topic, we encourage you
 - [UbuCon Asia 2021 Video playlist](https://www.youtube.com/playlist?list=PLr8g8zdbZAgFp5iEKM7nm6RJE3uruQ5GK)
 - [UbuCon Asia 2022 Video playlist](https://www.youtube.com/playlist?list=PLr8g8zdbZAgFiXUM4q4N78ytxiQTRjgc6)
 - [UbuCon Asia 2023 Video playlist](https://www.youtube.com/playlist?list=PLr8g8zdbZAgGLaaGFwBp4h14THlcu9uAb)
+
 These videos will give you a glimpse into the diverse range of topics covered, the quality of content, and the vibrant community that comes together at UbuCon Asia.
 
 # Call for Volunteers
@@ -41,3 +42,6 @@ Whether you choose to submit a proposal, volunteer, become a community partner, 
 Stay tuned for more updates. We can't wait to see your proposals, welcome you aboard as a volunteer, and collaborate with our partners and sponsors!
 
 Let's make UbuCon Asia 2024 a unforgettable celebration of Ubuntu, open-source, and the power of community collaboration.
+
+# Get in touched!
+Got some questions or would like to get in touched with organizers and other participants? Feel free to [join our chat](https://docs.ubucon.asia/general/chat/) and discuss or [drop an email to us.](mailto:contact@ubucon.asia) We'll be happy to chat with you! To learn more about the event and keep up to date, [be sure to check website of UbuCon Asia 2024.](https://2024.ubucon.asia) Hopefully, See you all in Jaipur, India this year!
