@@ -1,5 +1,5 @@
 ---
-date: 2024-03-22T14:00:00+09:00
+date: 2024-03-21T23:00:00+09:00
 title: "Making UbuCon Asia 2024 together - Become a speaker, volunteer, community partner or a sponsor today"
 tags:
  - ubucon
