@@ -20,6 +20,8 @@ Greetings! We're announcing today that we're extending deadline for call for pro
 
 If you need travel grant from the organizing committee, please also make sure to submit application before the CFP deadline. So that we can review your session proposal and travel grant application together and easily confirm your participation later.
 
+Got interesting topic to share in Jaipur? [Click here to submit your proposal today.](https://2024.ubucon.asia/cfp)  
+
 # Important dates
 
 As mentioned, CFP deadline is now April 30. You may have a look at [Important dates](https://2024.ubucon.asia/programs/important-dates/) page on our website for other important dates you need to remember.
