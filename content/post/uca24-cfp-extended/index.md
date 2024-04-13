@@ -1,5 +1,5 @@
 ---
-date: 2024-04-13T17:00:00+09:00
+date: 2024-04-13T16:54:00+09:00
 title: "CFP Deadline extended for UbuCon Asia 2024"
 tags:
  - ubucon
