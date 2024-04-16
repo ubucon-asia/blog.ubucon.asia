@@ -19,7 +19,7 @@ draft: false # 글 초안 여부
 UbuCon Asia, the premier Ubuntu Linux conference in Asia, is gearing up for its 2024 edition, and we need your involvement to make it a resounding success! Whether you're an Ubuntu enthusiast, an open-source advocate, or simply someone passionate about technology, there are multiple ways for you to contribute to this exciting event.
 
 # Call for Proposals
-Do you have a fascinating story to share, a groundbreaking project to showcase, or valuable insights into the world of Ubuntu and open-source software? We welcome proposals for talks, workshops, and BoFs on a wide range of topics related to Ubuntu, Linux, and the broader open-source ecosystem. [Submit your proposal today by clicking here!](2024.ubucon.asia/cfp)
+Do you have a fascinating story to share, a groundbreaking project to showcase, or valuable insights into the world of Ubuntu and open-source software? We welcome proposals for talks, workshops, and BoFs on a wide range of topics related to Ubuntu, Linux, and the broader open-source ecosystem. [Submit your proposal today by clicking here!](https://2024.ubucon.asia/cfp)
 
 If you need some inspirations for choosing your proposal topic, we encourage you to check out the video recordings from previous UbuCon Asia events:
 
@@ -30,7 +30,7 @@ If you need some inspirations for choosing your proposal topic, we encourage you
 These videos will give you a glimpse into the diverse range of topics covered, the quality of content, and the vibrant community that comes together at UbuCon Asia.
 
 # Call for Volunteers
-UbuCon Asia is a community-driven event, and its success depends on the dedication and hard work of volunteers. We're seeking enthusiastic individuals to join our team and contribute their time and energy to various aspects of the conference, such as event logistics, registration, technical support, and more. [Sign up to become a volunteer by clicking here.](bit.ly/ucav)
+UbuCon Asia is a community-driven event, and its success depends on the dedication and hard work of volunteers. We're seeking enthusiastic individuals to join our team and contribute their time and energy to various aspects of the conference, such as event logistics, registration, technical support, and more. [Sign up to become a volunteer by clicking here.](https://bit.ly/ucav)
 
 By becoming a volunteer, you'll have the opportunity to gain valuable experience, meet like-minded individuals, and be an integral part of the Ubuntu community.
 
