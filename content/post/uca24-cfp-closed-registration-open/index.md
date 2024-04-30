@@ -13,7 +13,7 @@ authors:
       github: sukso96100
       profile: https://avatars2.githubusercontent.com/u/1916739?s=460&v=4
 image: uca24register.jpg # 커버 이미지 URL
-draft: true # 글 초안 여부
+draft: false # 글 초안 여부
 ---
 
 # CFP & Travel grant for speakers now closed
