@@ -38,3 +38,4 @@ We're also looking for sponsors who would like to help us to make things happen!
 - [Chat information](https://docs.ubucon.asia/general/chat/)
 - [Email contact](mailto:contact@ubucon.asia)
 - [Sponsorship contact](mailto:sponsorship@ubucon.asia)
+- [Learn more about our Sponsorship program](https://2024.ubucon.asia/sponsors/become-a-sponsor/)
