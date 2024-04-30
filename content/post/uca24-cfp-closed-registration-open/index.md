@@ -1,5 +1,5 @@
 ---
-date: 2024-05-01T03:00:00+09:00
+date: 2024-05-01T03:30:00+09:00
 title: "UbuCon Asia 2024 CFP Closed, Registration now open!"
 tags:
  - ubucon
