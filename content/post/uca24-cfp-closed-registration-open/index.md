@@ -21,6 +21,23 @@ With May begins, We're now closing Call for proposals for this year's UbuCon Asi
 
 Content team alrady started reviewing submitted proposals. And will finish reviewing all proposals by April 30. During review period, reviewers from content team may leave comments on your proposals for asking some questions or to request to revise your proposals. Which would also give you email notification sent from `noreply+events@canonical.com`. Don't forget to check your inbox for such notifications and take actions if required.
 
+## Some numbers
+While we have received total 52 proposals, these are numbers by contribution types and tracks.
+
+| Tracks | Talk | Workshop | BoF | Lightning talk | Subtotal |
+| --- | --- | --- | --- |
+| Community |	7 |	1 |	2 |	0 |	10 |
+| Content and Design |	2 |	2 |	0 |	0 |	4 |
+| Data, AI and ML |	6 |	1 |	0 |	1 |	8 |
+| Desktop and WSL |	3 |	3 |	0 |	1 |	7 |
+| Devices and IoT |	2 |	2 |	0 |	2 |	6 |
+| Documentations and QA |	1 |	0 |	0 |	1 |	2 |
+| Cloud and Infrastructure |	7 |	1 |	0 |	0 |	8 |
+| Localizations and Accessibility |	0 |	1 |	0 |	0 |	1 |
+| Other |	2 |	0 |	1 |	0 |	3 |
+| Security and Compliance |	3 |	0 |	0 |	0 |	3 |
+| Total |	33 |	11 |	3 |	5 |	52 |
+
 # Registrations now open!
 We're now also opening registration! You can register to attend today at [https://2024.ubucon.asia/register](https://2024.ubucon.asia/register)! We have tickets available with wide range of options. Choose the ticket that works for you best.
 
