@@ -19,7 +19,7 @@ draft: false # 글 초안 여부
 # CFP & Travel grant for speakers now closed
 With May begins, We're now closing Call for proposals for this year's UbuCon Asia. We have received many proposals with interesting topics for about past 7 weeks. Thank you everyone who submitted proposals! With that, we're now also closing travel grant application for speakers. For those who submitted both proposal and travel grant application, We'll review both together and inform you about the results later.
 
-Content team alrady started reviewing submitted proposals. And will finish reviewing all proposals by April 30. During review period, reviewers from content team may leave comments on your proposals for asking some questions or to request to revise your proposals. Which would also give you email notification sent from `noreply+events@canonical.com`. Don't forget to check your inbox for such notifications and take actions if required.
+Content team alrady started reviewing submitted proposals. And will finish reviewing all proposals by May 15. During review period, reviewers from content team may leave comments on your proposals for asking some questions or to request to revise your proposals. Which would also give you email notification sent from `noreply+events@canonical.com`. Don't forget to check your inbox for such notifications and take actions if required.
 
 ## Some numbers
 While we have received total 52 proposals, these are numbers by contribution types and tracks.
