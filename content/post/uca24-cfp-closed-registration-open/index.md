@@ -35,7 +35,8 @@ If you have any questions with UbuCon Asia, feel free to drop a message on our c
 
 We're also looking for sponsors who would like to help us to make things happen! Please feel free to contact us if you would be interested to join us!
 
-- [Chat information](https://docs.ubucon.asia/general/chat/)
+- [UbuCon Asia Chat information](https://docs.ubucon.asia/general/chat/)
+- [Ubuntu India Telegram](https://t.me/+IkN1pyLGkUdjZGU1)
 - [Email contact](mailto:contact@ubucon.asia)
 - [Sponsorship contact](mailto:sponsorship@ubucon.asia)
 - [Learn more about our Sponsorship program](https://2024.ubucon.asia/sponsors/become-a-sponsor/)
