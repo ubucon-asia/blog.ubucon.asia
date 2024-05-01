@@ -25,7 +25,7 @@ Content team alrady started reviewing submitted proposals. And will finish revie
 While we have received total 52 proposals, these are numbers by contribution types and tracks.
 
 | Tracks | Talk | Workshop | BoF | Lightning talk | Subtotal |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Community |	7 |	1 |	2 |	0 |	10 |
 | Content and Design |	2 |	2 |	0 |	0 |	4 |
 | Data, AI and ML |	6 |	1 |	0 |	1 |	8 |
