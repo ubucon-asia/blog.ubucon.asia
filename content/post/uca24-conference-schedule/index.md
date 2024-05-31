@@ -6,12 +6,12 @@ tags:
  - uca24
 forum_username: sukso96100
 authors:
-    - name: Youngbin Han
-      bio: Organizer - UbuCon Asia & Ubuntu Korean LoCo
-      email: ybhan@ubuntu.com
-      launchpad: ybhan
-      github: sukso96100
-      profile: https://avatars2.githubusercontent.com/u/1916739?s=460&v=4
+    - name: RJ Hsiao
+      bio: Organizer - UbuCon Asia & Ubuntu Taiwan LoCo
+      email: rj@ubuntu-tw.org
+      launchpad: rjhsiao
+      github: RJHsiao
+      profile: https://avatars.githubusercontent.com/u/236116?v=4
 # image: groupphoto.jpg # 커버 이미지 URL
 draft: false # 글 초안 여부
 ---
