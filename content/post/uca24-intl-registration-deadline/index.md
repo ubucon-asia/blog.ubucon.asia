@@ -1,6 +1,6 @@
 ---
 date: 2024-06-21T20:00:00+09:00
-title: "Internationa attendees, register and submit visa letter request by June 22 7PM IST"
+title: "Foreign attendees, register and submit visa letter request by June 22 7PM IST"
 tags:
  - ubucon
  - uca24
@@ -16,7 +16,7 @@ image: passport.avif # 커버 이미지 URL
 draft: false # 글 초안 여부
 ---
 
-Attendees with non-Indian nationality and coming from foreign country - If you're coming to UbuCon Asia 2024 but not registered and submitted visa letter request yet, please make sure to complete by June 22 7PM IST. (1:30 UTC+0). As Indian e-Conference Visa requires organizer to submit list of participants to relevant authority in advance, Our local team need to gather information from international attendees early. If you don't register and submit visa letter request in time, you might be difficult to get e-Conference Visa and attend in-person. 
+Foreign attendees coming from foreign country(or region) - If you're coming to UbuCon Asia 2024 but not registered and submitted visa letter request yet, please make sure to complete by June 22 7PM IST. (1:30 UTC+0). As Indian e-Conference Visa requires organizer to submit list of participants to relevant authority in advance, Our local team need to gather information from international attendees early. If you don't register and submit visa letter request in time, you might be difficult to get e-Conference Visa and attend in-person. 
 
 # Where to register
 Please register for "International Regular Ticket" or "International Student Ticket" at https://2024.ubucon.asia/register. If you would like to contribute on this event financially, you may consider registering for "Patron Ticket" which also give you access to conference dinner with minimum 100 USD(or 8500 INR) contribution. Most foreigners coming from outside of India will need e-Conference visa to attend the event. As you'll need visa letter to get this kind of visa, Make sure to select "Yes" for "Do you need a VISA letter?*" question.
