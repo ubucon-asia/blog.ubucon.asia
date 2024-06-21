@@ -19,7 +19,7 @@ If you're done with writing post, Commit post files to `main` branch then push t
 Please send us copy of your post and your information(name, profile photo, email address and more) to us [via Email.](mailto:contact@ubucon.asia)
 
 # Things to note when writing post
-- Content should be something related with Ubuntu or Ubuntu Korea Community. If your post has nothing to do with these, It will be rejected or deleted.
-- Content must be compliant with [Ubuntu Code of Conduct](https://ubuntu.com/community/code-of-conduct)
+- Content should be something related with UbuCon Asia or Ubuntu. If your post has nothing to do with these, It will be rejected or deleted.
+- Content must be compliant with [Ubuntu Code of Conduct](https://ubuntu.com/community/ethos/code-of-conduct)
 - Do not push draft to `main` branch. If you're organizer, It is recommended to work on dedicated branch.
 - Do not write post to advertise or promote sales of service, business or products
