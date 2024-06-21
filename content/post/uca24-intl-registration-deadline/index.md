@@ -1,6 +1,6 @@
 ---
-date: 2024-06-21T20:00:00+09:00
-title: "Foreign attendees, register and submit visa letter request by June 22 7PM IST"
+date: 2024-06-21T21:00:00+09:00
+title: "Announcing UbuCon Asia 2024 featured speakers - secure your seat today!"
 tags:
  - ubucon
  - uca24
