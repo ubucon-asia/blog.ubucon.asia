@@ -1,6 +1,6 @@
 ---
 date: 2024-11-19T00:09:00+09:00
-title: "UbuCon Asia to be held in Kathmandu, Nepal"
+title: "UbuCon Asia 2025 to be held in Kathmandu, Nepal"
 tags:
  - ubucon
  - uca25
