@@ -37,4 +37,4 @@ Our sponsorship pricing this year offers wide range of pricing and benefits that
 - [See full sponsorship pricing](https://2025.ubucon.asia/sponsors/become-a-sponsor/)
 - [See sponsorship prospectus](https://2025.ubucon.asia/ubucon-asia-2025-sponsorship-prospectus.pdf)
 - [Contact sponsorship team](mailto:sponsorship@ubucon.asia)
-- [Visit UbuCon Asia 2024 Website](https://2025.ubucon.asia)
+- [Visit UbuCon Asia 2025 Website](https://2025.ubucon.asia)
