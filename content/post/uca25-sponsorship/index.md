@@ -30,7 +30,7 @@ As a non-profit and soley community-organized event, Our organizers and voluntee
 | Price(NPR)<sup>*1</sup> | 10,00,000 |	6,00,000 |	4,00,000 |	2,00,000 |	70,000 - 1,00,000 |
 > - *1: For business or organization with address in Nepal and individuals with residency in Nepal
 
-Our sponsorship pricing this year offers wide range of pricing and benefits that would fits your organization's budget and needs. If you would like to learn more about the details, we recommend you to have a look at our full pricing table on our website and also our sponsorship prospectus. If you would like to become our sponsor or got any questions, please feel free to contact sponsorship@ubucon.asia. We'll be also happy to discuss with you on sponsorship and other inquires about UbuCon Asia 2024. Thank you, and hope we can see you in Jaipur this year!
+Our sponsorship pricing this year offers wide range of pricing and benefits that would fits your organization's budget and needs. If you would like to learn more about the details, we recommend you to have a look at our full pricing table on our website and also our sponsorship prospectus. If you would like to become our sponsor or got any questions, please feel free to contact sponsorship@ubucon.asia. We'll be also happy to discuss with you on sponsorship and other inquires about UbuCon Asia 2025. Thank you, and hope we can see you in Kathmandu, Nepal!
 
 ## Links
 
