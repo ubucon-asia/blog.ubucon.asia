@@ -24,7 +24,7 @@ As a non-profit and soley community-organized event, Our organizers and voluntee
 
 ## Sponsorship pricing table
 
-| **Package (Slots)** | Diamond (1 Slot) | Gold (2 Slots) | Silver (3 Slots) | Bronze (Rolling basis) | Supporter (Rolling basis) |
+| **Package (Slots)** | Diamond (1 Slot) | Gold (2 Slots) | Silver (6 Slots) | Bronze (Rolling basis) | Supporter (Rolling basis) |
 | --- | --- | --- | --- | --- | --- |
 | Price(USD) | 10,000 |	6,000 |	3,500 |	1,600 |	500 - 800 |
 | Price(NPR)<sup>*1</sup> | 10,00,000 |	6,00,000 |	4,00,000 |	2,00,000 |	70,000 - 1,00,000 |
