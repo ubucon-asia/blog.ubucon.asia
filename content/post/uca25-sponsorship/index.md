@@ -16,7 +16,7 @@ image: uca25prospectus.png # 커버 이미지 URL
 draft: false # 글 초안 여부
 ---
 
-Our next edition of UbuCon Asia in Kathmandu, Nepal is now looking for its sponsors  who will help us to make this annual gathering happen!
+Our next edition of UbuCon Asia in Kathmandu, Nepal with date set to August 30-31 is now looking for its sponsors  who will help us to make this annual gathering happen!
 
 Since 2021, UbuCon Asia has been connecting diverse people in Asia with one thing common: Ubuntu and FOSS. And has been enabling Asian Ubuntu and FOSS community to explore what we can do with Ubuntu and FOSS and how we can contribute to its projects and communities. The event has been also a huge momentum to get Ubuntu local communities get more active or sometimes revived from long vacant and connect each other. And this was not possible without any support from our sponsors!
 
