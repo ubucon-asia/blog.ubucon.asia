@@ -1,5 +1,5 @@
 ---
-date: 2025-01-14T00:09:00+09:00
+date: 2025-01-14T22:00:00+09:00
 title: "UbuCon Asia 2025 Call for proposals to be opened on early March"
 tags:
  - ubucon
