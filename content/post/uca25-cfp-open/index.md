@@ -12,7 +12,7 @@ authors:
       launchpad: jipangmenjerit
       github: jipangmenjerit
       profile: https://avatars.githubusercontent.com/u/685497?v=4
-draft: false 
+draft: false
 ---
 We are happy to announce the call for proposals for UbuCon Asia 2025 is now open! Ubuntu Conference Asia (UbuCon Asia or UCA) are community-organized conferences for the Ubuntu community, bringing together contributors, enthusiasts, and users from all over the world. 
 
