@@ -46,7 +46,7 @@ At UbuCon Asia, our goal is to showcase the incredible work people do with Ubunt
 # Spread the Word!
 Help us make UbuCon Asia 2025 a vibrant and enriching event. Share this call for proposals with your friends, colleagues, and anyone else who might be interested in speaking at UbuCon Asia.
 
-For more details and to submit your proposal today, visit this link to learn more.
+For more details and to submit your proposal today, [visit this link](https://events.canonical.com/event/127/abstracts/) to learn more.
 
 # Got questions?
 If you need any help with preparing your proposal, or are unsure about the topic, please feel free to contact us or ask questions on chat!
