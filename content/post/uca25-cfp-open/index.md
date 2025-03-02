@@ -14,9 +14,8 @@ authors:
       profile: https://avatars.githubusercontent.com/u/685497?v=4
 draft: false
 ---
-We are happy to announce the call for proposals for UbuCon Asia 2025 is now open! Ubuntu Conference Asia (UbuCon Asia or UCA) are community-organized conferences for the Ubuntu community, bringing together contributors, enthusiasts, and users from all over the world. 
+We are happy to announce the call for proposals for UbuCon Asia 2025 is now open! Ubuntu Conference Asia (UbuCon Asia or UCA) are community-organized conferences for the Ubuntu community, bringing together contributors, enthusiasts, and users from all over the world. UbuCon Asia, in particular, is a regional event that focuses on the specific interests and needs of the Asian Ubuntu community. 
 
-UbuCon Asia, in particular, is a regional event that focuses on the specific interests and needs of the Asian Ubuntu community. 
 This year's event will be happening at [**St. Xavier’s College (SXC) Kathmandu**](https://2025.ubucon.asia/venue-and-travel/venue-and-safety/), the heart city of Nepal.
 
 As we’ve already shared on [previous blogpost](https://blog.ubucon.asia/post/uca25-cfp/), you may submit your proposal starting **from March 1st till March 31st**. Depending on the number of submissions we received, this could be extended or closed in advance.
