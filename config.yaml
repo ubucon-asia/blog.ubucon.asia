@@ -3,7 +3,8 @@ languageCode: en
 title: 'UbuCon Asia Blog'
 theme: "ubuntu-blog-hugo"
 buildFuture: true
-paginate: 5
+pagination:
+  pagerSize: 5
 outputs:
   home:
   - html
