@@ -4,7 +4,7 @@ title: "CFP Deadline extended for UbuCon Asia 2024"
 tags:
  - ubucon
  - uca25
-forum_username: jipangmejerit
+forum_username: jipangmenjerit
 authors:
     - name: Muhammad Syazwan Md Khusaini
       bio: Organizer - UbuCon Asia & Ubuntu Malaysia LoCo Team
@@ -14,7 +14,6 @@ authors:
       profile: https://avatars.githubusercontent.com/u/685497?v=4
 draft: false
 ---
-
 Greetings! We're announcing today that we're extending deadline for call for proposal until April 15th. If you were rushing into deadline for submitting your proposal, You now have some extra times to complete your submission. Due to Visa invitation process and travel grant process, there will be no further CFP deadline extension after April 15th. 
 
 If you need travel grant from the organizing committee, please also make sure to submit application before the CFP deadline. So that we can review your session proposal and travel grant application together and easily confirm your participation later.
