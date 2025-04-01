@@ -21,7 +21,6 @@ If you need travel grant from the organizing committee, please also make sure to
 Got interesting topic to share in Kathmandu? [Click here to submit your proposal today.](https://events.canonical.com/event/127/abstracts/)  
 
 # Got questions?
-
 If you need any help with preparing your proposal, or are unsure about the topic, please feel free to contact us or ask questions on chat!
 - Telegram: [https://t.me/UbuConAsia](https://t.me/UbuConAsia)
 - Matrix: [https://matrix.to/#/#ubucon-asia:ubuntu.com](https://matrix.to/#/#ubucon-asia:ubuntu.com)
