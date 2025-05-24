@@ -1,6 +1,6 @@
 ---
 date: 2025-05-25T01:00:00+09:00
-title: "Get a booth for your community or project at UbuCon Asia 2025!"
+title: "UbuCon Asia 2025 now offers 3 new sponsorship offerings!"
 tags:
  - ubucon
  - uca25
